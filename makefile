@@ -1,4 +1,4 @@
 
-all:
-		cc -o lowercase lowercase.c
-#		cc -o makewords makewords.c
+asd:
+        gcc lowercase.c -o lowercase
+        ./test.sh
